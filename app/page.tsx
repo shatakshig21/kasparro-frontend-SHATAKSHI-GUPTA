@@ -24,6 +24,15 @@ export default function HomePage() {
       <section>
         <h2 className="text-2xl font-semibold mb-4">
           Why AI-SEO is Different
+          <p className="mt-4 text-sm text-muted-foreground">
+  AI-Native SEO focuses on how large language models interpret, rank, and reference
+  brands and entities rather than relying solely on keyword matching and backlinks.
+  Instead of optimizing only for traditional SERP rankings, AI-SEO emphasizes
+  entity authority, semantic relevance, and contextual consistency so that brands
+  are correctly represented within AI-generated answers and conversational search
+  results.
+</p>
+
         </h2>
         <ul className="list-disc pl-6 space-y-2 text-gray-700">
           <li>Search is shifting from links to answers</li>
